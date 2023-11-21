@@ -1,0 +1,20 @@
+﻿Build started 21/11/2023 11:40:24 PM.
+     1>Project "C:\Users\lenovo\Desktop\task 3\task 3\task 3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         G:\visual studio 2013 file iso\vs code installed\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\lenovo\desktop\task 3\task 3\source.cpp(42): error C2039: 'getfirstName' : is not a member of 'Name'
+                 c:\users\lenovo\desktop\task 3\task 3\class.h(4) : see declaration of 'Name'
+     1>c:\users\lenovo\desktop\task 3\task 3\source.cpp(43): error C2039: 'getfirstName' : is not a member of 'Name'
+                 c:\users\lenovo\desktop\task 3\task 3\class.h(4) : see declaration of 'Name'
+     1>c:\users\lenovo\desktop\task 3\task 3\source.cpp(63): error C2039: 'getfirstName' : is not a member of 'Name'
+                 c:\users\lenovo\desktop\task 3\task 3\class.h(4) : see declaration of 'Name'
+                 c:\users\lenovo\desktop\task 3\task 3\class.h(4) : see declaration of 'Name'
+     1>c:\users\lenovo\desktop\task 3\task 3\source.cpp(65): error C2039: 'getfirstName' : is not a member of 'Name'
+                 c:\users\lenovo\desktop\task 3\task 3\class.h(4) : see declaration of 'Name'
+                 c:\users\lenovo\desktop\task 3\task 3\class.h(4) : see declaration of 'Name'
+     1>Done Building Project "C:\Users\lenovo\Desktop\task 3\task 3\task 3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.65
